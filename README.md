@@ -1,2 +1,5 @@
 # code_3000
 Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science and Engineering
+
+# Ethics Statement:
+  - As Software Engineers we should recognize that the systems we build shape people’s lives, their access to opportunities, and fundamental rights. So our ethical responsibility is to prevent harm and promote fairness in all applications of AI. I am committed to avoiding ethical nightmares such as the use of AI in autonomous weapons, mass surveillance that violates privacy, and biased systems that unfairly restrict access to jobs, and or finances. I value human wellbeing, fairness, and user autonomy, and these values guide my decisions over profit and efficiency. Therefore, I will not develop or support systems that intentionally cause physical/phycological harm, enable unjustified surveillance, or perpetuate discrimination, and  will not ignore known risks to users. To uphold these commitments, I will actively assess bias and societal impact before deployment through user feedback and testing. I will also track progress against my goals to improve the AI ethics of my systems.
